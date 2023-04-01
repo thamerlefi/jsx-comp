@@ -3,7 +3,7 @@ import React from 'react'
 function Adress() {
   return (
     <div className='adress'>
-      Sayda / Monastir
+    <p className='adress'>Sayda / Monastir</p>  
     </div>
   )
 }
